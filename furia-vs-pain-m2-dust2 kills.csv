@@ -1,0 +1,141 @@
+Round,Tick,Killer,KillerSide,Victim,Weapon,Headshot,Wallbang,Assister
+0,2055,ultimate,Liquid,KSCERATO,Dual Berettas,false,false,None
+0,4371,ultimate,Liquid,YEKINDAR,Dual Berettas,true,false,None
+0,5028,yuurih,FURIA,ultimate,Glock-18,true,false,None
+0,7321,NertZ,Liquid,FalleN,USP-S,true,false,None
+0,7504,molodoy,FURIA,siuhy,Glock-18,true,false,None
+0,7542,Twistzz,Liquid,yuurih,USP-S,false,false,ultimate
+0,7581,molodoy,FURIA,Twistzz,Glock-18,true,false,yuurih
+0,7727,NAF-FLY,Liquid,molodoy,Dual Berettas,true,false,ultimate
+1,15356,ultimate,Liquid,KSCERATO,M4A1,false,false,None
+1,15435,YEKINDAR,FURIA,ultimate,Desert Eagle,true,false,FalleN
+1,15736,siuhy,Liquid,YEKINDAR,FAMAS,true,false,ultimate
+1,15947,Twistzz,Liquid,FalleN,M4A1,true,false,None
+1,16226,molodoy,FURIA,NAF-FLY,AK-47,true,false,None
+1,16269,NertZ,Liquid,molodoy,M4A1,true,false,None
+1,16324,yuurih,FURIA,Twistzz,Galil AR,true,false,FalleN
+1,16767,yuurih,FURIA,siuhy,Galil AR,true,true,YEKINDAR
+1,17114,NertZ,Liquid,yuurih,AK-47,false,false,None
+2,23179,KSCERATO,FURIA,ultimate,Tec-9,true,false,None
+2,23330,KSCERATO,FURIA,Twistzz,Tec-9,true,false,molodoy
+2,23795,FalleN,FURIA,siuhy,Desert Eagle,true,true,molodoy
+2,25920,YEKINDAR,FURIA,NertZ,M4A1,true,true,molodoy
+2,26690,NAF-FLY,Liquid,YEKINDAR,FAMAS,true,false,None
+2,26790,FalleN,FURIA,NAF-FLY,FAMAS,false,false,None
+3,29796,siuhy,Liquid,molodoy,Desert Eagle,true,false,NAF-FLY
+3,31462,KSCERATO,FURIA,NAF-FLY,AK-47,true,false,None
+3,31838,FalleN,FURIA,ultimate,FAMAS,true,false,KSCERATO
+3,32664,KSCERATO,FURIA,siuhy,AK-47,true,false,yuurih
+3,32824,NertZ,Liquid,yuurih,M4A1,false,false,None
+4,41227,KSCERATO,FURIA,Twistzz,AK-47,true,false,None
+4,41356,NertZ,Liquid,KSCERATO,M4A1,false,false,Twistzz
+4,41362,FalleN,FURIA,ultimate,AK-47,true,false,None
+4,41419,FalleN,FURIA,siuhy,AK-47,true,false,YEKINDAR
+4,41514,NAF-FLY,Liquid,FalleN,USP-S,true,false,ultimate
+4,41528,molodoy,FURIA,NAF-FLY,AWP,true,false,None
+4,42621,yuurih,FURIA,NertZ,AK-47,true,false,None
+5,45644,NertZ,Liquid,KSCERATO,M4A1,true,false,None
+5,45685,yuurih,FURIA,NertZ,AK-47,false,false,KSCERATO
+5,45727,NAF-FLY,Liquid,YEKINDAR,M4A1,false,false,None
+5,45842,NAF-FLY,Liquid,yuurih,M4A1,true,false,NertZ
+5,45919,NAF-FLY,Liquid,molodoy,M4A1,true,false,None
+5,46037,Twistzz,Liquid,FalleN,M4A1,true,false,None
+6,50197,YEKINDAR,FURIA,NertZ,AK-47,true,true,None
+7,55980,ultimate,Liquid,molodoy,AWP,false,false,None
+7,57310,NertZ,Liquid,FalleN,M4A1,false,false,None
+7,57860,YEKINDAR,FURIA,NertZ,M4A1,true,false,None
+7,61548,ultimate,Liquid,YEKINDAR,AWP,false,false,None
+7,61880,Twistzz,Liquid,yuurih,AK-47,true,false,ultimate
+7,61959,ultimate,Liquid,KSCERATO,AWP,false,false,None
+8,69105,YEKINDAR,FURIA,siuhy,AK-47,false,false,None
+8,69487,Twistzz,Liquid,FalleN,AK-47,false,false,None
+8,69523,yuurih,FURIA,Twistzz,AK-47,true,false,None
+8,69586,Twistzz,Liquid,YEKINDAR,Incendiary Grenade,false,false,None
+8,71150,KSCERATO,FURIA,NertZ,Tec-9,true,false,None
+8,71514,NAF-FLY,Liquid,yuurih,M4A1,true,true,None
+8,71625,molodoy,FURIA,NAF-FLY,AWP,true,false,None
+8,72219,molodoy,FURIA,ultimate,AWP,false,false,None
+9,74683,molodoy,FURIA,ultimate,AWP,false,false,None
+9,78681,yuurih,FURIA,siuhy,M4A4,true,false,None
+9,79814,Twistzz,Liquid,molodoy,M4A4,true,false,None
+9,81169,yuurih,FURIA,NertZ,M4A4,true,false,None
+9,81600,YEKINDAR,FURIA,NAF-FLY,AK-47,false,false,molodoy
+9,83070,Twistzz,Liquid,YEKINDAR,M4A4,false,false,None
+10,83336,Twistzz,Liquid,yuurih,M4A4,true,false,None
+10,83442,KSCERATO,FURIA,Twistzz,Tec-9,false,false,None
+10,90045,FalleN,FURIA,Twistzz,AK-47,true,false,None
+10,91102,YEKINDAR,FURIA,siuhy,AK-47,true,false,None
+10,91154,YEKINDAR,FURIA,NAF-FLY,AK-47,false,false,None
+10,91237,KSCERATO,FURIA,ultimate,AK-47,false,false,None
+10,91811,yuurih,FURIA,NertZ,AK-47,false,false,None
+11,98633,YEKINDAR,FURIA,NertZ,AK-47,true,false,None
+11,98699,Twistzz,Liquid,molodoy,M4A1,false,false,None
+11,98815,yuurih,FURIA,siuhy,AK-47,true,false,None
+11,98827,FalleN,FURIA,ultimate,AK-47,false,false,YEKINDAR
+11,99062,Twistzz,Liquid,yuurih,M4A1,true,false,NAF-FLY
+11,99074,NAF-FLY,Liquid,FalleN,M4A1,false,true,Twistzz
+11,99206,YEKINDAR,FURIA,Twistzz,AK-47,false,false,FalleN
+11,99211,NAF-FLY,Liquid,YEKINDAR,M4A1,false,false,Twistzz
+11,100080,NAF-FLY,Liquid,KSCERATO,M4A1,false,false,None
+12,111553,NertZ,Liquid,molodoy,Glock-18,true,false,None
+12,111950,NAF-FLY,Liquid,FalleN,Glock-18,false,false,ultimate
+12,112065,KSCERATO,FURIA,NAF-FLY,USP-S,true,false,yuurih
+12,112808,Twistzz,Liquid,YEKINDAR,Glock-18,true,false,None
+12,113122,KSCERATO,FURIA,Twistzz,USP-S,true,false,None
+12,113395,ultimate,Liquid,KSCERATO,P250,true,false,Twistzz
+12,113475,yuurih,FURIA,NertZ,USP-S,false,false,molodoy
+12,113583,yuurih,FURIA,ultimate,USP-S,false,false,KSCERATO
+12,113887,siuhy,Liquid,yuurih,Glock-18,false,false,None
+13,116290,Twistzz,Liquid,FalleN,Galil AR,true,false,None
+13,116376,Twistzz,Liquid,YEKINDAR,Galil AR,true,false,None
+13,116480,KSCERATO,FURIA,ultimate,USP-S,true,false,molodoy
+13,116491,Twistzz,Liquid,yuurih,Galil AR,true,false,ultimate
+13,116686,siuhy,Liquid,molodoy,Galil AR,false,false,ultimate
+13,116765,NertZ,Liquid,KSCERATO,MP7,false,false,None
+14,120862,YEKINDAR,FURIA,siuhy,M4A1,false,false,None
+14,120891,KSCERATO,FURIA,ultimate,M4A1,true,false,None
+14,124957,Twistzz,Liquid,YEKINDAR,AK-47,true,false,ultimate
+14,125515,NertZ,Liquid,KSCERATO,Galil AR,true,false,None
+14,126015,FalleN,FURIA,NertZ,M4A1,false,false,None
+14,126500,FalleN,FURIA,Twistzz,M4A1,true,false,None
+15,130935,Twistzz,Liquid,KSCERATO,Galil AR,true,false,None
+15,131133,FalleN,FURIA,NertZ,M4A1,false,false,None
+15,131219,siuhy,Liquid,FalleN,AK-47,true,false,NAF-FLY
+15,131358,siuhy,Liquid,YEKINDAR,AK-47,false,false,ultimate
+16,137362,molodoy,FURIA,ultimate,AWP,true,false,None
+16,137615,NertZ,Liquid,YEKINDAR,AK-47,true,false,None
+16,141728,NAF-FLY,Liquid,yuurih,AK-47,false,false,None
+16,142036,NAF-FLY,Liquid,KSCERATO,AK-47,true,false,None
+16,144025,Twistzz,Liquid,molodoy,AK-47,true,false,siuhy
+16,144418,FalleN,FURIA,NertZ,MP9,true,false,YEKINDAR
+16,144534,Twistzz,Liquid,FalleN,AK-47,true,false,None
+17,149994,NAF-FLY,Liquid,FalleN,AK-47,false,false,None
+17,150005,YEKINDAR,FURIA,NAF-FLY,Five-SeveN,false,false,FalleN
+17,151122,Twistzz,Liquid,KSCERATO,AK-47,true,true,None
+17,151226,yuurih,FURIA,NertZ,AK-47,false,false,None
+17,153720,molodoy,FURIA,siuhy,Desert Eagle,true,false,None
+17,154326,Twistzz,Liquid,molodoy,AWP,false,false,ultimate
+18,162041,siuhy,Liquid,YEKINDAR,AK-47,true,false,None
+18,162053,yuurih,FURIA,NAF-FLY,AK-47,true,false,KSCERATO
+18,162095,NertZ,Liquid,yuurih,AK-47,false,false,NAF-FLY
+18,162126,KSCERATO,FURIA,siuhy,M4A1,false,false,None
+18,162444,NertZ,Liquid,FalleN,AK-47,false,false,None
+18,162505,KSCERATO,FURIA,ultimate,M4A1,false,false,None
+18,162757,NertZ,Liquid,KSCERATO,AK-47,false,false,None
+18,162938,Twistzz,Liquid,molodoy,AK-47,true,false,None
+19,166137,Twistzz,Liquid,YEKINDAR,AK-47,true,false,None
+19,166247,KSCERATO,FURIA,Twistzz,M4A1,false,false,FalleN
+19,166902,molodoy,FURIA,siuhy,AWP,false,false,None
+19,167474,FalleN,FURIA,NertZ,AK-47,false,false,None
+19,168753,molodoy,FURIA,NAF-FLY,AWP,false,false,None
+19,169271,ultimate,Liquid,molodoy,AWP,false,false,None
+19,169887,FalleN,FURIA,ultimate,AK-47,true,false,None
+20,177411,siuhy,Liquid,molodoy,AK-47,true,false,ultimate
+20,177918,siuhy,Liquid,FalleN,AK-47,true,false,None
+21,189925,siuhy,Liquid,molodoy,AK-47,true,false,None
+21,191131,ultimate,Liquid,FalleN,AWP,false,false,None
+21,191253,ultimate,Liquid,YEKINDAR,AWP,true,false,None
+21,191260,KSCERATO,FURIA,NertZ,M4A1,false,false,None
+21,191413,yuurih,FURIA,siuhy,M4A4,true,false,None
+21,191451,Twistzz,Liquid,yuurih,AK-47,false,false,siuhy
+21,191571,Twistzz,Liquid,KSCERATO,AK-47,false,true,NertZ
